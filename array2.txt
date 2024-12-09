@@ -1,0 +1,116 @@
+                                        Action & Adventure
+Anime Features                                          -> Anime
+Anime Series                                            -> Anime
+British TV Shows
+Children & Family Movies                                -> Children & Family
+Classic & Cult TV                                       -> Horror
+Classic Movies                                          -> Clasic
+                                        Comedies
+Crime TV Shows                                          -> Crime
+Cult Movies                                             -> Cult
+Documentaries                                           -> Documentary
+Docuseries                                              -> Documentary
+                                        Drama
+Faith & Spirituality                                    -> Drama
+Horror Movies                                           -> Horror
+Independent Movies                                      -> Independent
+International Movies                                    -> International
+International TV Shows                                  -> International
+Kids' TV                                                -> Kids
+                                        Korean TV Shows 
+LGBTQ Movies                                            -> LGBTQ
+                                        Movies
+                                        Music & Musical 
+                                        Reality TV
+Romantic Movies                                         -> Romantic
+Romantic TV Shows                                       -> Romantic
+                                        Sci-Fi & Fantasy
+Science & Nature TV                                     -> Documentary
+                                        Spanish-Language TV Show
+Sports Movies                                           -> Sports
+Stand-Up Comedy                                         -> Comedy
+Stand-Up Comedy & Talk Shows                            -> Talk Show
+TV Action & Adventure                                   -> Action & Adventure
+TV Comedies                                             -> Comedy
+TV Dramas                                               -> Drama
+TV Horror                                               -> Horror
+TV Mysteries                                            -> Mystery
+TV Sci-Fi & Fantasy                                     -> Sci-Fi & Fantasy
+                                        TV Shows
+TV Thrillers                                            -> Thriller
+                                        Teen TV Show
+                                        Thriller
+                                        Action          -> Action & Adventure
+                                        Adventure       -> Action & Adventure
+                                        Animation
+                                        Anime
+Arthouse                                                -> Arts
+                                        Arts
+                                        Comedy
+                                        Documentary
+                                        Drama
+                                        Entertainment
+Faith and Spirituality                                  -> Faith & Spirituality
+Fantasy                                                 -> Sci-Fi & Fantasy
+                                        Fitness
+                                        Historical
+                                        Horror
+                                        International
+                                        Kids
+                                        LGBTQ
+                                        Military and War
+Music Videos and Concerts                               -> Music & Musical
+Romance                                                 -> Romantic
+Science Fiction                                         -> Sci-Fi & Fantasy
+                                        Special Interest
+                                        Sports
+Suspense
+TV Shows -> ?
+Talk Show and Variety                                   -> Talk Show
+Unscripted                                              -> Comedy
+                                        Western
+Young Adult Audience and Culture
+Action-Adventure                                        -> Action & Adventure
+Animals & Nature                                        -> Documentary
+                                        Animation
+                                        Anime
+Anthology
+Biographical                                            -> Documentary
+Buddy
+Comedy                                                  -> Comedy
+Coming of Age                                           -> Drama
+Concert Film                                            -> Music & Musical
+Crime                                                   -> Police
+                                        Dance
+                                        Disaster
+                                        Documentary
+Docuseries                                              -> Documentary
+                                        Drama
+                                        Family
+Fantasy                                                 -> Sci-Fi & Fantasy
+Game Show / Competition
+Historical                                              -> Documentary
+                                        Kids
+                                        Lifestyle
+                                        Medical
+                                        Movies
+Music                                                   -> Music & Musical
+Musical                                                 -> Music & Musical
+                                        Mystery
+Parody                                                  -> Comedy
+Police/Cop                                              -> Police
+                                        Reality
+Romance                                                 -> Romantic
+Romantic Comedy                                         -> Romantic
+Science Fiction                                         -> Sci-Fi & Fantasy
+                                        Series
+Soap Opera / Melodrama                                  -> Opera
+                                        Sports
+Spy/Espionage                                           -> spy
+                                        Superhero
+                                        Survival
+Talk Show                                               -> Talk Show
+                                        Thriller
+                                        Travel
+                                        Variety
+                                        Western
